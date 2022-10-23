@@ -1,14 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm ranmo(染陌) 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=answershuto&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=ffffff&hide_title=true" />
 
-你好，我是染陌，生活在浙江杭州。目前就职于阿里巴巴大淘宝前端架构团队，负责基于 W3C 标准的高性能渲染引擎 [Kraken](https://github.com/openkraken/kraken)。
+* Developer at [Alibaba TaoBao FED](https://fed.taobao.org/)
+* Member of [W3C CSS Group](https://www.w3.org/groups/wg/css/participants)
+* Author of [《剖析 Vue.js 内部运行机制》](https://juejin.cn/book/6844733705089449991)
 
-同时，我也是[《剖析 Vue.js 内部运行机制》](https://juejin.cn/book/6844733705089449991)作者，[W3C CSS工作组](https://www.w3.org/groups/wg/css/participants)成员。
+**🤝🏻 &nbsp;Connect with Me**
 
-如果你想找我聊聊，欢迎给我[发邮件](mailto:answershuto@gmail.com)。
+<a href="mailto:answershuto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-answershuto@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-**Languages and Tools:**
+
+**📖 &nbsp; Blog**
+
+<a href="https://www.zhihu.com/people/cao-yang-49"><img src="https://img.shields.io/badge/%E6%9F%93%E9%99%8C%E5%90%8C%E5%AD%A6-%E7%9F%A5%E4%B9%8E-blue"></a>
+<a href="[https://www.zhihu.com/people/cao-yang-49](https://juejin.cn/user/289926769027053/posts)"><img src="https://img.shields.io/badge/%E6%9F%93%E9%99%8C%E5%90%8C%E5%AD%A6-%E6%8E%98%E9%87%91-yellow"></a>
+
+**🔧 &nbsp;Languages and Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN01u0y8XT25HxxAVpBQL_!!6000000007502-2-tps-109-103.png"></code>
