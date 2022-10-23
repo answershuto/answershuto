@@ -14,7 +14,7 @@
 **📖 &nbsp; Blog**
 
 <a href="https://www.zhihu.com/people/cao-yang-49"><img src="https://img.shields.io/badge/%E6%9F%93%E9%99%8C%E5%90%8C%E5%AD%A6-%E7%9F%A5%E4%B9%8E-blue"></a>
-<a href="[https://www.zhihu.com/people/cao-yang-49](https://juejin.cn/user/289926769027053/posts)"><img src="https://img.shields.io/badge/%E6%9F%93%E9%99%8C%E5%90%8C%E5%AD%A6-%E6%8E%98%E9%87%91-yellow"></a>
+<a href="https://juejin.cn/user/289926769027053/posts"><img src="https://img.shields.io/badge/%E6%9F%93%E9%99%8C%E5%90%8C%E5%AD%A6-%E6%8E%98%E9%87%91-yellow"></a>
 
 **🔧 &nbsp;Languages and Tools**
 
