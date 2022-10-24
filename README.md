@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=answershuto&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=ffffff&hide_title=true" />
 
 * Developer at [Alibaba TaoBao FED](https://fed.taobao.org/)
-* Member of [W3C CSS Group](https://www.w3.org/groups/wg/css/participants)
+* Member of [W3C CSS Working Group](https://www.w3.org/groups/wg/css/participants)
 * Author of [《剖析 Vue.js 内部运行机制》](https://juejin.cn/book/6844733705089449991)
 
 **🤝🏻 &nbsp;Connect with Me**
